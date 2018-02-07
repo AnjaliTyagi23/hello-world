@@ -1,2 +1,4 @@
 # hello-world
-first project
+ Hey everyone,
+ 
+ This is my first time doing this, excited about it!
